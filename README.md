@@ -4,3 +4,4 @@
 <img width="337" height="153" alt="image" src="https://github.com/user-attachments/assets/f96f7a2c-da44-43eb-803a-b0762714df8c" />
 <img width="1021" height="252" alt="image" src="https://github.com/user-attachments/assets/10cf1d02-526c-40f7-9833-9f76e8be6838" />
 
+MINECRAFT SERVER(clever teaching) wss://clever-teaching.com
